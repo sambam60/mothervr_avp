@@ -1,5 +1,0 @@
-[2026-03-27 14:18:47] probing pid 96877 for 15s
-[2026-03-27 14:18:47] sleeping 8s before attach
-[2026-03-27 14:18:55] attach start
-(lldb) process attach --pid 96877
-error: attach failed: lost connection
